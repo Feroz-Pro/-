@@ -111,7 +111,7 @@ javascript in simple language
 var name = "Feroz";
 
 // let উদাহরণ:
-let age = 25;
+let age = 30;
 
 // const উদাহরণ:
 const country = "Bangladesh";
